@@ -6,4 +6,4 @@ future use.
 https://ktmac21.github.io/weather-dash/
 
 
-![](weatherdash.png)
+![](images/weatherdash.png)
